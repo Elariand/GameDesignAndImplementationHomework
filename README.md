@@ -22,3 +22,35 @@ Rules
 * The CHARACTER must go to the DOOR WITH the KEY to finish the LEVEL.
 * You loose if the CHARACTER doesn’t reach the door within 30seconds.
 * The PLATEFORMS are moving faster according to the LEVEL (+1LEVEL after reaching the DOOR).
+
+
+
+
+-------------------
+
+
+
+
+Target
+> Anybody with a phone or a computer, older than 5 years old.
+  * Kid			:	explore/discover a imaginary world, archieve the goal of the Game/Win, big new funny things, learn to use a numeric game
+  * Young guy		:	explore/discover a imaginary world, archieve the goal of the Game/Win, reach the top as fast as possible
+  * Adult / Parent	:	explore/discover a imaginary world, archieve the goal of the Game/Win, reach the top as fast as possible
+
+
+
+
+# # # # # # # # # #
+.                 .
+.                 . 
+.   # # #         .
+.         D       .
+.     # # # # #   .
+. K               .
+. # #             .
+.           # # # .
+.                 .
+.     # # #       .
+.                 .
+.         &       .
+# # # # # # # # # #
